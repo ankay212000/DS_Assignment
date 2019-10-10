@@ -1,6 +1,6 @@
 # DS_Assignment
 Data Structures Assignment.<br />
-This repository is to complete Data structures assignment with the help of contributors, to get efficicent ways to solve a particular problems.
+This repository is to complete Data structures assignment with the help of contributors, to get efficicent ways to solve problems.
 # How to contribute?
 - Add name in the contributors file.<br />
 - Make a separate file with the name of contributor.<br />
